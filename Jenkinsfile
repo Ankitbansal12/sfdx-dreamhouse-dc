@@ -16,10 +16,10 @@ node {
     // def HUB_KEY=env.HUB_KEY_FILE_PATH
     // def SFDC_HOST = env.SFDC_HOST
     // def CONNECTED_APP_CONSUMER_KEY=env.CONNECTED_APP_CONSUMER_KEY
-    def HUB_ORG="wade.wegner@acdxgs0hub.org"
-    def HUB_KEY="jenkins/server_adcxgs0hub.my.salesforce.com.key"
-    def SFDC_HOST="https://adcxgs0hub.my.salesforce.com"
-    def CONNECTED_APP_CONSUMER_KEY="3MVG9SemV5D80oBfPBCgboxuJ9df3F8MrzZxhqU5qeUb5MoRs.vuBNHRhhdMh2WDeh5cFiAXcv9z2PnZ7CScu"
+    def HUB_ORG="ankit.bansal1111@abbive.com"
+    def HUB_KEY="jenkins/secret.key"
+    def SFDC_HOST="https://login.salesforce.com"
+    def CONNECTED_APP_CONSUMER_KEY="3MVG9G9pzCUSkzZttB00ng3L6hDyawZ_3_Frrs_8ab4tXrqlt.hHfph36sxnn4i46kpk6foVscIT2f62G0WKy"
 
     def toolbelt = tool 'toolbelt'
 
